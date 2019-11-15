@@ -1,3 +1,7 @@
+/**
+ * @author Stephen Tselikov
+ * @date 11/14/2019
+ */
 import java.util.*;
 
 public class GraphImplementation implements Graph
@@ -89,7 +93,4 @@ public class GraphImplementation implements Graph
 		}
 		return neighbors;
 	}
-	
-	
-	
 }
